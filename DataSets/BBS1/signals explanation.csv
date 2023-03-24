@@ -305,3 +305,5 @@ Mfm02_Y_Amps,Mfm02_Y_Amps,Data source,RawData × 1,A,2,Instantaneous value
 Mfm02_Y_Volt,Mfm02_Y_Volt,Data source,RawData × 1,V,2,Instantaneous value
 Wms01_Irradiance,Wms01_Irradiance,Data source,RawData × 1,W/m²,2,Instantaneous value
 Wms02_Irradiance,Wms02_Irradiance,Data source,RawData × 1,W/m²,2,Instantaneous value
+Wms01_Temp,Wms01_Temp,Data source,RawData ÷ 10,ºC,1,Instantaneous value
+Wms02_Temp,Wms02_Temp,Data source,RawData ÷ 10,ºC,1,Instantaneous value
